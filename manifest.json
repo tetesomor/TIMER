@@ -1,6 +1,6 @@
 {
-  "name": "Focus",
-  "short_name": "Focus",
+  "name": "timer",
+  "short_name": "timer",
   "description": "Pomodoro timer, metronome, and ambient noise — one simple screen.",
   "start_url": "./index.html",
   "scope": "./",
